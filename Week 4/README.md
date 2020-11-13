@@ -12,4 +12,5 @@ These are just a couple of many ideas and problems that can be solved using loca
 For this week, you will be required to submit the following:
 
 A description of the problem and a discussion of the background. (15 marks)
+
 A description of the data and how it will be used to solve the problem. (15 marks)
